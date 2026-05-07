@@ -33,6 +33,16 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+p.location{
+  margin-bottom: 0;
+}
+
+h7 {
+  font-size: smaller;
+  color: grey;
+  font-style: italic;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -316,7 +326,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
 
 .section-title h2 {
@@ -343,6 +353,9 @@ section {
   margin-bottom: 0;
 }
 
+.description-item {
+  vertical-align: baseline;
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
@@ -430,7 +443,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
